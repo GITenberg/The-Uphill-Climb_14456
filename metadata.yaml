@@ -31,6 +31,8 @@ description: Beloved Western author B. M. Bower is back with another classic yar
   of the Old West. Much like her best-known works, The Uphill Climb showcases the
   inner lives of the cowhands and ranchers who made the region livable -- and whose
   rough-and-tumble lifestyles all too often exacted a harsh toll.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14456#The-Uphill-Climb
 gutenberg_bookshelf: Western
 gutenberg_issued: '2004-12-25'
 gutenberg_type: Text
